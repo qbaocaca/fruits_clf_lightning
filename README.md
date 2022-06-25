@@ -1,4 +1,4 @@
-# FruitsClassifier with Pytorch Lightning
+# FruitsClassifier with Pytorch Lightning 🍉
 
 <div align="center">
   <img alt="baocaca | fired_neuron" src="https://i.pinimg.com/originals/13/ea/31/13ea31cad6749fb95a8df6baa6b44f83.gif" />
@@ -8,46 +8,49 @@
 
 &nbsp;
 
-## **Documentation**
+## **✍️ Documentation:**
 
-### Convert my Pytorch model to Pytorch Lightning
+### - **[Convert my Pytorch model to Pytorch Lightning]**
 
-### FruitsClassifier on Fruits 360
+### - **[FruitsClassifier on Fruits 360]**
 
-### Full Training on Kaggle | GoogleNet | 94% Acc
+### - **Full Training on Kaggle | GoogleNet | 94% Acc**
 
 &nbsp;
 
-## **Training**
+## **💥 Training Epochs**
 
 ![training](images/training.JPG)
 
 &nbsp;
 
-## **Loss and accuracy**
+## **🍇 Visualize Loss and Accuracy**
 
 ![lossacc](images/lossnacc.JPG)
 
 &nbsp;
 
-## **Visualize model performance on test dataset**
+## **🍌 Visualize model performance on test dataset**
 
 ![visualize_model](images/visualize_model.JPG)
 
 &nbsp;
 
-## **Accuracy of each class**
+## **🍎 Accuracy of each class**
 
 ![accofeach](images/accofeach.JPG)
 
 &nbsp;
 
-## **Image Predictions from outside the Dataset**
+## **🍍 Image Predictions from outside the Dataset**
 
 ![predict](images/predict.JPG)
 
 &nbsp;
 
-## **Accuracy of each class: green(correct predictions), red(incorrect predictions)**
+## **🍑 Accuracy of each class: green(correct predictions), red(incorrect predictions)**
 
 ![accofeach2](images/accofeach2.JPG)
+
+[Convert my Pytorch model to Pytorch Lightning]: https://wordpress.com/post/blogbybao.wordpress.com/1261
+[FruitsClassifier on Fruits 360]: https://qbaocaca.github.io/fruits_classifier/
