@@ -14,7 +14,7 @@
 
 ### - **[FruitsClassifier on Fruits 360]**
 
-### - **Full Training on Kaggle | GoogleNet | 94% Acc**
+### - **Full Training on [Kaggle] | GoogleNet | 94% Acc**
 
 &nbsp;
 
@@ -52,5 +52,6 @@
 
 ![accofeach2](images/accofeach2.JPG)
 
-[Convert my Pytorch model to Pytorch Lightning]: https://wordpress.com/post/blogbybao.wordpress.com/1261
+[Convert my Pytorch model to Pytorch Lightning]: https://blogbybao.wordpress.com/2022/06/24/1261/
 [FruitsClassifier on Fruits 360]: https://qbaocaca.github.io/fruits_classifier/
+[Kaggle]: https://www.kaggle.com/code/alevi0989/fruits360-pytorch-lightning-0-937-acc
